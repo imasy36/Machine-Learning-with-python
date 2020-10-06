@@ -9,5 +9,5 @@ This codes are implemented in Google colab or Kaggle
     accuracy achieved : 79 - 80 %   <br> 
 <h2>3. Pneumonia Detection using densenet121 </h2><br>
     dataset : <a href="https://www.kaggle.com/paultimothymooney/chest-xray-pneumonia"> https://www.kaggle.com/paultimothymooney/chest-xray-pneumonia </a><br>
-    accuracy achieved : 85% <br>
+    accuracy achieved : 88.49% <br>
     Link to my <a href="https://www.kaggle.com/imasy36/pneumonia-detection-densenet?"> kaggle Notebook </a>
